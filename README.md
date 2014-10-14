@@ -32,4 +32,4 @@
 [PR]: http://pragprog.com/book/ruby3/programming-ruby-1-9
 [RUG]: http://www.rubyist.net/~slagell/ruby/
 [RL]: http://www.ruby-lang.org/
-[first]: /chapter_1/
+[first]: /chapter1/
